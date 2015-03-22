@@ -249,3 +249,4 @@ SOFTWARE.
 [Just Reminder]:https://play.google.com/store/apps/details?id=com.cray.software.justreminder
 [Early Notes]:https://play.google.com/store/apps/details?id=com.gmail.earlynotesapp.earlynotes
 [Ranch - Smart Tip Calculator]:https://play.google.com/store/apps/details?id=com.andreifedianov.android.ranch
+[Standard Drinks]:https://play.google.com/store/apps/details?id=nz.co.carlosdev.drinksmanager
